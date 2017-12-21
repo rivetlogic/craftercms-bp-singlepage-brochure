@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/level-descriptor</content-type>	<display-template/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6610</objectGroupId>
+	<objectId>6610c083-2a6c-b6e1-dd65-acbb7a713dd8</objectId>
+	<file-name>crafter-level-descriptor.level.xml</file-name>
+	<folder-name/>
+	<contactEmails>	<item>	<email>emmanuel_1693@hotmail.es</email>
+	</item>	<item>	<email>emmanuel.hidalgo@rivetlogic.com</email>
+	</item></contactEmails>
+	<createdDate>12/19/2017 19:47:35</createdDate>
+	<createdDate_dt>12/19/2017 19:47:35</createdDate_dt>
+	<lastModifiedDate>12/20/2017 19:35:12</lastModifiedDate>
+	<lastModifiedDate_dt>12/20/2017 19:35:12</lastModifiedDate_dt>
+</component>

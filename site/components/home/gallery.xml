@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/gallery-component</content-type>	<display-template>/templates/web/components/GalleryComponent.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0e51</objectGroupId>
+	<objectId>0e517668-d7b2-59c0-f352-12d44d0872fe</objectId>
+	<file-name>gallery.xml</file-name>
+	<folder-name/>
+	<internal-name>gallery</internal-name>
+	<backgroundImage>/static-assets/img/gallery-bg.png</backgroundImage>
+	<galleryImages>	<item>	<galleryImage>/static-assets/img/item-01.jpg</galleryImage>
+	<imageName>Cars in the city</imageName>
+	</item>	<item>	<galleryImage>/static-assets/img/item-02.jpg</galleryImage>
+	<imageName>Nice river</imageName>
+	</item>	<item>	<galleryImage>/static-assets/img/item-03.jpg</galleryImage>
+	<imageName>Buildings</imageName>
+	</item>	<item>	<galleryImage>/static-assets/img/item-04.jpg</galleryImage>
+	<imageName>Sunset</imageName>
+	</item>	<item>	<galleryImage>/static-assets/img/item-05.jpg</galleryImage>
+	<imageName>Castle</imageName>
+	</item></galleryImages>
+	<createdDate>12/19/2017 19:30:53</createdDate>
+	<createdDate_dt>12/19/2017 19:30:53</createdDate_dt>
+	<lastModifiedDate>12/21/2017 17:25:34</lastModifiedDate>
+	<lastModifiedDate_dt>12/21/2017 17:25:34</lastModifiedDate_dt>
+	<title>My Gallery</title>
+</component>

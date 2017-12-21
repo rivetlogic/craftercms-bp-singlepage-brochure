@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/about-component</content-type>	<display-template>/templates/web/components/AboutComponent.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ca53</objectGroupId>
+	<objectId>ca534227-9678-7e1e-31e2-1ddb6df9f46c</objectId>
+	<file-name>about.xml</file-name>
+	<folder-name/>
+	<internal-name>about</internal-name>
+	<subTitle>About us</subTitle>
+	<title>We are kinetic</title>
+	<buttonTitle>discover more</buttonTitle>
+	<buttonUrl>http://localhost:8080/#t3</buttonUrl>
+	<backgroundImage>/static-assets/img/about-bg.png</backgroundImage>
+	<decorativeImage>/static-assets/img/item-02.jpg</decorativeImage>
+	<mainText>This kinetic HTML template is provided by Tooplate for free of charge. You may use this layout for your website. Please tell your friends about Tooplate. Thank you. Cras suscipit, sem vel cursus iaculis, nibh augue placerat enim, in varius dolor turpis at augue. Nulla facilisi. In quis sem pellentesque, tristique ligula non, tincidunt ipsum. Curabitur porttitor, justo id egestas egestas, enim augue lacinia quam, et volutpat velit augue sodales velit.
+
+</mainText>
+	<createdDate>12/19/2017 19:29:51</createdDate>
+	<createdDate_dt>12/19/2017 19:29:51</createdDate_dt>
+	<lastModifiedDate>12/20/2017 17:9:26</lastModifiedDate>
+	<lastModifiedDate_dt>12/20/2017 17:9:26</lastModifiedDate_dt>
+</component>
