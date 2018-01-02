@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/home-component</content-type>	<display-template>/templates/web/components/HomeComponent.ftl</display-template>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a04e</objectGroupId>
+	<objectId>a04ef6de-f2fe-c8cf-b976-718e39de1b81</objectId>
+	<file-name>home.xml</file-name>
+	<folder-name/>
+	<internal-name>home</internal-name>
+	<pageTitle>Kinetic</pageTitle>
+	<subTitle>welcome to</subTitle>
+	<homeMainText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius neque non imperdiet auctor. Duis sit amet velit eu lorem sollicitudin sodales.</homeMainText>
+	<buttonTitle>discover more</buttonTitle>
+	<buttonUrl>http://localhost:8080/#t2</buttonUrl>
+	<backgroundImage>/static-assets/img/home-bg.png</backgroundImage>
+	<createdDate>12/19/2017 19:26:4</createdDate>
+	<createdDate_dt>12/19/2017 19:26:4</createdDate_dt>
+	<lastModifiedDate>12/20/2017 17:6:17</lastModifiedDate>
+	<lastModifiedDate_dt>12/20/2017 17:6:17</lastModifiedDate_dt>
+</component>
