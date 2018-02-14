@@ -12,9 +12,9 @@
  
 
 function localRedirect(direction) {
- var myPromise = new Promise((resolve, reject) => {
+ var myPromise = new Promise(function(resolve, reject) {
  	window.location.href = direction;
-     	setTimeout(()=> {
+     	setTimeout(function(){
               if(direction === '#t1') {
                   $("#p1").css('display', 'block');
               } else {
@@ -23,7 +23,7 @@ function localRedirect(direction) {
               resolve();
           }, 500);
       })
-      .then(() => studioICERepaint())
+      .then(function(){studioICERepaint()})
 }
 
 
