@@ -54,6 +54,7 @@
         <script src="/static-assets/js/vendor/bootstrap.min.js"></script>
 
         <script src="/static-assets/js/plugins.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.4/bluebird.min.js"></script>
         <script src="/static-assets/js/main.js"></script>
         <script src="/static-assets/js/alertify.min.js"></script>
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
