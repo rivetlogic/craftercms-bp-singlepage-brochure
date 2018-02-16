@@ -40,9 +40,6 @@ html, body, section, .page {
   transition: all 1s cubic-bezier(.5, -0.005, 0.2, 1) !important;
   -webkit-transition: all 1s cubic-bezier(.5, -0.005, 0.2, 1) !important;
   color: #fff;
-  background-image: url(../img/home-bg.png);
-  background-repeat: no-repeat;
-  background-size: cover;
   overflow: hidden;
 }
 
@@ -52,32 +49,43 @@ section {
 
 .page {
   position: absolute;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('');
+}
+
+.bg-overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-image: url('');
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 0;
 }
 
 #p1 {
   left: 0;
-  background-image: url(../img/home-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #p2 {
   left: 100%;
-  background-image: url(../img/about-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #p3 {
   left: 200%;
-  background-image: url(../img/gallery-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #p4 {
   left: 300%;
-  background-image: url(../img/contact-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -563,7 +571,7 @@ a {
 @media (max-width: 850px){ 
 
   ul {
-    padding-top: 10%;
+    padding-top: 0;
   }
 
 	.page#p1 .icon {

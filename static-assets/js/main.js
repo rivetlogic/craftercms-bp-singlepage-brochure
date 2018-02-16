@@ -28,15 +28,16 @@ function localRedirect(direction) {
 
 
 // Uses Node, AMD or browser globals to create a module.
-(function (root, factory) { 
-  $("#form-submit").click(function(e){
+(function (root, factory) {
+  $("#contact").submit(function(e){
           e.preventDefault();
-          var thisButton = $(this);
+          var thisButton = $("#form-submit");
            alertify.set('notifier','position', 'top-right');
           
           if(!thisButton.hasClass("loading") && !thisButton.hasClass("done")){
               var frm = $("#contact");
               if (!frm[0].checkValidity()) {
+              	alertify.error('Please fill all the fields or check the email format');
                   // If the form is invalid, submit it. The form won't actually submit;
                   // this will just cause the browser to display the native HTML5 error messages.
                   frm.find('input[type=submit]').click()

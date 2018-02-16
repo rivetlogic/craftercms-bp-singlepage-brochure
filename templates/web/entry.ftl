@@ -37,6 +37,7 @@
                    <a onClick='localRedirect("#t3");'><li class="icon icon-menu fa-image" id="tres"></li></a>
                    <a onClick='localRedirect("#t4");'><li class="icon icon-menu fa-phone" id="cuatro"></li></a>
                  </ul>
+                 <div class="bg-overlay"></div>
                  <#list contentModel.childContent.item as module>
 					<@renderComponent component=module />
 				</#list>  
@@ -55,6 +56,7 @@
 
         <script src="/static-assets/js/plugins.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/bluebird/3.3.4/bluebird.min.js"></script>
+        <script src="/static-assets/js/state.js"></script>
         <script src="/static-assets/js/main.js"></script>
         <script src="/static-assets/js/alertify.min.js"></script>
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
