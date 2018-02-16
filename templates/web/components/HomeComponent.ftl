@@ -10,3 +10,12 @@
    	</div>
    </li>   
  </div>
+ 
+ <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ <script>
+ var section = $(".bg-overlay")
+ var imageUrl = '${contentModel.backgroundImage}'
+ section.css('background-image', 'url(' + imageUrl + ')');
+ </script>
+ 
+
