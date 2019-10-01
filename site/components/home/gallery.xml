@@ -19,9 +19,9 @@
 	</item>	<item>	<galleryImage>/static-assets/img/item-05.jpg</galleryImage>
 	<imageName>Castle</imageName>
 	</item></galleryImages>
-	<createdDate>12/19/2017 19:30:53</createdDate>
-	<createdDate_dt>12/19/2017 19:30:53</createdDate_dt>
-	<lastModifiedDate>12/21/2017 17:25:34</lastModifiedDate>
-	<lastModifiedDate_dt>12/21/2017 17:25:34</lastModifiedDate_dt>
+	<createdDate>2017-12-19T19:30:53.000Z</createdDate>
+	<createdDate_dt>2017-12-19T19:30:53.000Z</createdDate_dt>
+	<lastModifiedDate>2017-12-21T17:25:34.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-12-21T17:25:34.000Z</lastModifiedDate_dt>
 	<title>My Gallery</title>
 </component>
