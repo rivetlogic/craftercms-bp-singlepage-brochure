@@ -7,7 +7,7 @@
 	<file-name>contact.xml</file-name>
 	<folder-name/>
 	<internal-name>contact</internal-name>
-	<pageTitle>Contact us</pageTitle>
+	<pageTitle_t>Contact us</pageTitle_t>
 	<namePlaceholder>Name</namePlaceholder>
 	<emailPlaceholder>Email</emailPlaceholder>
 	<messagePlaceholder>Message</messagePlaceholder>

@@ -7,7 +7,7 @@
 	<file-name>home.xml</file-name>
 	<folder-name/>
 	<internal-name>home</internal-name>
-	<pageTitle>Kinetic</pageTitle>
+	<pageTitle_t>Kinetic</pageTitle_t>
 	<subTitle_t>welcome to</subTitle_t>
 	<homeMainText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius neque non imperdiet auctor. Duis sit amet velit eu lorem sollicitudin sodales.</homeMainText>
 	<buttonTitle_t>discover more</buttonTitle_t>
