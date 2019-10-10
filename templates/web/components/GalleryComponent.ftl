@@ -1,6 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 <div class="page" id="p3" style="background-image: url(${contentModel.backgroundImage})">
-  <li class="icon fa fa-image" <@studio.iceAttr iceGroup="visible" path=contentModel.storeUrl />><span class="title">${contentModel.title}</span>
+  <li class="icon fa fa-image" <@studio.iceAttr iceGroup="visible" path=contentModel.storeUrl />><span class="title">${contentModel.title_t}</span>
     <div class="container">
       <div class="row">
         <#list contentModel.galleryImages.item as galleryItem>

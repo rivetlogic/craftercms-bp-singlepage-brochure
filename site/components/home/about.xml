@@ -8,7 +8,7 @@
 	<folder-name/>
 	<internal-name>about</internal-name>
 	<subTitle_t>About us</subTitle_t>
-	<title>We are kinetic</title>
+	<title_t>We are kinetic</title_t>
 	<buttonTitle>discover more</buttonTitle>
 	<buttonUrl>/#t3</buttonUrl>
 	<backgroundImage>/static-assets/img/about-bg.png</backgroundImage>
