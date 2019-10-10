@@ -31,7 +31,7 @@
         </div>
         <div class="col-md-6">
           <div class="right-info">
-            <p>${contentModel.generalInformation}</p>
+            <p>${contentModel.generalInformation_html}</p>
             <ol class="social-icons">
               <#list contentModel.socialMedia.item as media>
                 <#if media.enabled == "true">

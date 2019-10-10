@@ -13,8 +13,8 @@
 	<messagePlaceholder_t>Message</messagePlaceholder_t>
 	<sendButtonTitle_t>Send</sendButtonTitle_t>
 	<backgroundImage_s>/static-assets/img/contact-bg.png</backgroundImage_s>
-	<generalInformation>&lt;h1&gt;&lt;em&gt;What is Lorem Ipsum?&lt;/em&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;Lorem Ipsum&lt;/span&gt;&amp;nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum&lt;/p&gt;</generalInformation>
+	<generalInformation_html>&lt;h1&gt;&lt;em&gt;What is Lorem Ipsum?&lt;/em&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;span&gt;Lorem Ipsum&lt;/span&gt;&amp;nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum&lt;/p&gt;</generalInformation_html>
 	<socialMedia>	<item>	<socialOpts>fa-twitter</socialOpts>
 	<url>#</url>
 	<enabled>true</enabled>
