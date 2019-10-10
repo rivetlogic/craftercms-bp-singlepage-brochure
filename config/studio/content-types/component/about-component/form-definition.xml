@@ -95,7 +95,7 @@
          <fields>
             <field>
                <type>input</type>
-               <id>subTitle</id>
+               <id>subTitle_t</id>
                <iceId>visible</iceId>
                <title>Sub Title</title>
                <description/>

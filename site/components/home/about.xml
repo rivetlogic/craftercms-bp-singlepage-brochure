@@ -7,7 +7,7 @@
 	<file-name>about.xml</file-name>
 	<folder-name/>
 	<internal-name>about</internal-name>
-	<subTitle>About us</subTitle>
+	<subTitle_t>About us</subTitle_t>
 	<title>We are kinetic</title>
 	<buttonTitle>discover more</buttonTitle>
 	<buttonUrl>/#t3</buttonUrl>

@@ -8,7 +8,7 @@
 	<folder-name/>
 	<internal-name>home</internal-name>
 	<pageTitle>Kinetic</pageTitle>
-	<subTitle>welcome to</subTitle>
+	<subTitle_t>welcome to</subTitle_t>
 	<homeMainText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius neque non imperdiet auctor. Duis sit amet velit eu lorem sollicitudin sodales.</homeMainText>
 	<buttonTitle>discover more</buttonTitle>
 	<buttonUrl>/#t2</buttonUrl>
