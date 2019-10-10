@@ -138,7 +138,7 @@
             </field>
             <field>
                <type>repeat</type>
-               <id>galleryImages</id>
+               <id>galleryImages_o</id>
                <iceId>visible</iceId>
                <title>Gallery Images</title>
                <description/>

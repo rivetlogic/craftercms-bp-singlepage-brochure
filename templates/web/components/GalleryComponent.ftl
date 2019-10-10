@@ -3,7 +3,7 @@
   <li class="icon fa fa-image" <@studio.iceAttr iceGroup="visible" path=contentModel.storeUrl />><span class="title">${contentModel.title_t}</span>
     <div class="container">
       <div class="row">
-        <#list contentModel.galleryImages.item as galleryItem>
+        <#list contentModel.galleryImages_o.item as galleryItem>
           <div class="col-md-4 col-md-offset-0.5">
              <div class="project-item">
               <a href=${galleryItem.galleryImage} data-lightbox="image-1" data-title="${galleryItem.imageName}">

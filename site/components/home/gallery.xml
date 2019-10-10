@@ -8,7 +8,7 @@
 	<folder-name/>
 	<internal-name>gallery</internal-name>
 	<backgroundImage_s>/static-assets/img/gallery-bg.png</backgroundImage_s>
-	<galleryImages>	<item>	<galleryImage>/static-assets/img/item-01.jpg</galleryImage>
+	<galleryImages_o>	<item>	<galleryImage>/static-assets/img/item-01.jpg</galleryImage>
 	<imageName>Cars in the city</imageName>
 	</item>	<item>	<galleryImage>/static-assets/img/item-02.jpg</galleryImage>
 	<imageName>Nice river</imageName>
@@ -18,7 +18,7 @@
 	<imageName>Sunset</imageName>
 	</item>	<item>	<galleryImage>/static-assets/img/item-05.jpg</galleryImage>
 	<imageName>Castle</imageName>
-	</item></galleryImages>
+	</item></galleryImages_o>
 	<createdDate>2017-12-19T19:30:53.000Z</createdDate>
 	<createdDate_dt>2017-12-19T19:30:53.000Z</createdDate_dt>
 	<lastModifiedDate>2017-12-21T17:25:34.000Z</lastModifiedDate>
