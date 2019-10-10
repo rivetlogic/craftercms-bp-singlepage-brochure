@@ -14,7 +14,7 @@
         </div>
         <div class="col-md-6">
           <div class="right-image">
-            <img src=${contentModel.decorativeImage} alt="">
+            <img src=${contentModel.decorativeImage_s} alt="">
           </div>
         </div>
       </div>

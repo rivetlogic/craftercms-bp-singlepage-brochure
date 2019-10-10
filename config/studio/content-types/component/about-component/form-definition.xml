@@ -310,7 +310,7 @@
             </field>
             <field>
                <type>image-picker</type>
-               <id>decorativeImage</id>
+               <id>decorativeImage_s</id>
                <iceId>visible</iceId>
                <title>Decorative Image</title>
                <description/>
