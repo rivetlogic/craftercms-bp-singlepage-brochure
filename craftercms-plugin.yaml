@@ -49,7 +49,7 @@ plugin:
   crafterCmsVersions:
     - major: 3
       minor: 1
-      patch: 1
+      patch: 4
   crafterCmsEditions:
     - community
     - enterprise
