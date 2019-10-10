@@ -181,7 +181,7 @@
             </field>
             <field>
                <type>textarea</type>
-               <id>homeMainText</id>
+               <id>homeMainText_t</id>
                <iceId>visible</iceId>
                <title>Home Main Text</title>
                <description/>

@@ -4,7 +4,7 @@
    <li class="icon fa fa-home" <@studio.iceAttr iceGroup="visible" path=contentModel.storeUrl label="${contentModel.pageTitle_t}" />>
    	<span class="title">${contentModel.subTitle_t}</span>
    	<h4>${contentModel.pageTitle_t}</h4>
-    <p>${contentModel.homeMainText}</p>
+    <p>${contentModel.homeMainText_t}</p>
    	<div class="primary-button">
    		<a href=${contentModel.buttonUrl_s}>${contentModel.buttonTitle_t}</a>
    	</div>

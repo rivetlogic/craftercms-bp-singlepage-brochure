@@ -9,7 +9,7 @@
 	<internal-name>home</internal-name>
 	<pageTitle_t>Kinetic</pageTitle_t>
 	<subTitle_t>welcome to</subTitle_t>
-	<homeMainText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius neque non imperdiet auctor. Duis sit amet velit eu lorem sollicitudin sodales.</homeMainText>
+	<homeMainText_t>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius neque non imperdiet auctor. Duis sit amet velit eu lorem sollicitudin sodales.</homeMainText_t>
 	<buttonTitle_t>discover more</buttonTitle_t>
 	<buttonUrl_s>/#t2</buttonUrl_s>
 	<backgroundImage_s>/static-assets/img/home-bg.png</backgroundImage_s>
