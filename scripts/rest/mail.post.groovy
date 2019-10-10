@@ -29,7 +29,7 @@ println params
 return [cointextSite: contextSite];
 
 def getToMails(contextSite){
-    def toMails = contextSite.get('contactEmails/item/email');
+    def toMails = contextSite.get('contactEmails_o/item/email');
     if ( toMails in List ) {
         def tempArray = new String[toMails.size()];
         for(ii=0; ii< toMails.size(); ii++){
