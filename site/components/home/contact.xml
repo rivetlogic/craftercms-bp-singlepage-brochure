@@ -8,7 +8,7 @@
 	<folder-name/>
 	<internal-name>contact</internal-name>
 	<pageTitle_t>Contact us</pageTitle_t>
-	<namePlaceholder>Name</namePlaceholder>
+	<namePlaceholder_t>Name</namePlaceholder_t>
 	<emailPlaceholder>Email</emailPlaceholder>
 	<messagePlaceholder>Message</messagePlaceholder>
 	<sendButtonTitle>Send</sendButtonTitle>

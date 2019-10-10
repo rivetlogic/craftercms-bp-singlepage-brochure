@@ -8,7 +8,7 @@
           <form id="contact" action="/doContact" method="post">
             <div class="col-md-12">
               <fieldset>
-                <input name="name" type="text" class="form-control" id="name" placeholder= ${contentModel.namePlaceholder} required="">
+                <input name="name" type="text" class="form-control" id="name" placeholder= ${contentModel.namePlaceholder_t} required="">
               </fieldset>
             </div>
             <div class="col-md-12">
