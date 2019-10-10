@@ -38,7 +38,7 @@
                    <a onClick='localRedirect("#t4");'><li class="icon icon-menu fa-phone" id="cuatro"></li></a>
                  </ul>
                  <div class="bg-overlay"></div>
-                 <#list contentModel.childContent.item as module>
+                 <#list contentModel.childContent_o.item as module>
 					<@renderComponent component=module />
 				</#list>  
                   

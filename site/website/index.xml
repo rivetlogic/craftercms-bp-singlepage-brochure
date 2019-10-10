@@ -13,7 +13,7 @@
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
 	<lastModifiedDate>2017-12-20T17:56:21.000Z</lastModifiedDate>
 	<lastModifiedDate_dt>2017-12-20T17:56:21.000Z</lastModifiedDate_dt>
-	<childContent>	<item>	<key>/site/components/home/home.xml</key>
+	<childContent_o>	<item>	<key>/site/components/home/home.xml</key>
 	<value>home</value>
 	<include>/site/components/home/home.xml</include>
 	<disableFlattening>false</disableFlattening>
@@ -29,6 +29,6 @@
 	<value>contact</value>
 	<include>/site/components/home/contact.xml</include>
 	<disableFlattening>false</disableFlattening>
-	</item></childContent>
+	</item></childContent_o>
 	<showCopyright>true</showCopyright>
 </page>
