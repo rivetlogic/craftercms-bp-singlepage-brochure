@@ -207,7 +207,7 @@
                   </field>
                   <field>
                      <type>input</type>
-                     <id>imageName</id>
+                     <id>imageName_t</id>
                      <iceId>visible</iceId>
                      <title>Image Name</title>
                      <description/>
