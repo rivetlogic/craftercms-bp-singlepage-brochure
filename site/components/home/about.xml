@@ -9,7 +9,7 @@
 	<internal-name>about</internal-name>
 	<subTitle_t>About us</subTitle_t>
 	<title_t>We are kinetic</title_t>
-	<buttonTitle>discover more</buttonTitle>
+	<buttonTitle_t>discover more</buttonTitle_t>
 	<buttonUrl>/#t3</buttonUrl>
 	<backgroundImage>/static-assets/img/about-bg.png</backgroundImage>
 	<decorativeImage>/static-assets/img/item-02.jpg</decorativeImage>

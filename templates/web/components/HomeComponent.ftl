@@ -6,7 +6,7 @@
    	<h4>${contentModel.pageTitle}</h4>
     <p>${contentModel.homeMainText}</p>
    	<div class="primary-button">
-   		<a href=${contentModel.buttonUrl}>${contentModel.buttonTitle}</a>
+   		<a href=${contentModel.buttonUrl}>${contentModel.buttonTitle_t}</a>
    	</div>
    </li>   
  </div>

@@ -224,7 +224,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>buttonTitle</id>
+               <id>buttonTitle_t</id>
                <iceId>visible</iceId>
                <title>Button Title</title>
                <description/>
