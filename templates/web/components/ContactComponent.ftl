@@ -18,7 +18,7 @@
             </div>
             <div class="col-md-12">
               <fieldset>
-                <textarea name="message" rows="6" type="text" class="form-control" id="message" placeholder=${contentModel.messagePlaceholder} required=""></textarea>
+                <textarea name="message" rows="6" type="text" class="form-control" id="message" placeholder=${contentModel.messagePlaceholder_t} required=""></textarea>
               </fieldset>
             </div>
             <div class="col-md-12">

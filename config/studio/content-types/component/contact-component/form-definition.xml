@@ -224,7 +224,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>messagePlaceholder</id>
+               <id>messagePlaceholder_t</id>
                <iceId>visible</iceId>
                <title>Message Placeholder</title>
                <description/>

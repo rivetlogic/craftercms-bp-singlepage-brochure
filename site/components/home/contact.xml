@@ -10,7 +10,7 @@
 	<pageTitle_t>Contact us</pageTitle_t>
 	<namePlaceholder_t>Name</namePlaceholder_t>
 	<emailPlaceholder_t>Email</emailPlaceholder_t>
-	<messagePlaceholder>Message</messagePlaceholder>
+	<messagePlaceholder_t>Message</messagePlaceholder_t>
 	<sendButtonTitle>Send</sendButtonTitle>
 	<backgroundImage_s>/static-assets/img/contact-bg.png</backgroundImage_s>
 	<generalInformation>&lt;h1&gt;&lt;em&gt;What is Lorem Ipsum?&lt;/em&gt;&lt;/h1&gt;
