@@ -17,31 +17,31 @@
 &lt;p&gt;&lt;span&gt;Lorem Ipsum&lt;/span&gt;&amp;nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum&lt;/p&gt;</generalInformation_html>
 	<socialMedia_o>	<item>	<socialOpts_s>fa-twitter</socialOpts_s>
 	<url_s>#</url_s>
-	<enabled>true</enabled>
+	<enabled_b>true</enabled_b>
 	</item>	<item>	<url_s>#</url_s>
-	<enabled>true</enabled>
+	<enabled_b>true</enabled_b>
 	<socialOpts_s>fa-facebook</socialOpts_s>
 	</item>	<item>	<socialOpts_s>fa-linkedin</socialOpts_s>
 	<url_s>#</url_s>
-	<enabled>true</enabled>
+	<enabled_b>true</enabled_b>
 	</item>	<item>	<socialOpts_s>fa-behance</socialOpts_s>
 	<url_s>#</url_s>
-	<enabled>true</enabled>
+	<enabled_b>true</enabled_b>
 	</item>	<item>	<socialOpts_s>fa-rss</socialOpts_s>
 	<url_s>#</url_s>
-	<enabled>true</enabled>
+	<enabled_b>true</enabled_b>
 	</item>	<item>	<socialOpts_s>fa-pinterest</socialOpts_s>
 	<url_s>#</url_s>
-	<enabled>true</enabled>
+	<enabled_b>true</enabled_b>
 	</item>	<item>	<socialOpts_s>fa-instagram</socialOpts_s>
 	<url_s>#</url_s>
-	<enabled>true</enabled>
+	<enabled_b>true</enabled_b>
 	</item>	<item>	<socialOpts_s>fa-youtube</socialOpts_s>
 	<url_s>#</url_s>
-	<enabled>true</enabled>
+	<enabled_b>true</enabled_b>
 	</item>	<item>	<socialOpts_s>fa-google-plus</socialOpts_s>
 	<url_s>#</url_s>
-	<enabled>true</enabled>
+	<enabled_b>true</enabled_b>
 	</item></socialMedia_o>
 	<createdDate>2017-12-19T19:31:45.000Z</createdDate>
 	<createdDate_dt>2017-12-19T19:31:45.000Z</createdDate_dt>

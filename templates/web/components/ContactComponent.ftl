@@ -34,7 +34,7 @@
             <p>${contentModel.generalInformation_html}</p>
             <ol class="social-icons">
               <#list contentModel.socialMedia_o.item as media>
-                <#if media.enabled == "true">
+                <#if media.enabled_b>
                   <i><a href=${media.url_s}><i class="fa ${media.socialOpts_s}"></i></a></i>
                 </#if>
               </#list>
