@@ -9,7 +9,7 @@
 	<internal-name>contact</internal-name>
 	<pageTitle_t>Contact us</pageTitle_t>
 	<namePlaceholder_t>Name</namePlaceholder_t>
-	<emailPlaceholder>Email</emailPlaceholder>
+	<emailPlaceholder_t>Email</emailPlaceholder_t>
 	<messagePlaceholder>Message</messagePlaceholder>
 	<sendButtonTitle>Send</sendButtonTitle>
 	<backgroundImage_s>/static-assets/img/contact-bg.png</backgroundImage_s>

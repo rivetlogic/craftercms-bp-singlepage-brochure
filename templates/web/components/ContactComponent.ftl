@@ -13,7 +13,7 @@
             </div>
             <div class="col-md-12">
               <fieldset>
-                <input name="email" type="email" class="form-control" id="email" placeholder=${contentModel.emailPlaceholder} required="">
+                <input name="email" type="email" class="form-control" id="email" placeholder=${contentModel.emailPlaceholder_t} required="">
               </fieldset>
             </div>
             <div class="col-md-12">

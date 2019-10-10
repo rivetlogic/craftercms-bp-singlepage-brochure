@@ -181,7 +181,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>emailPlaceholder</id>
+               <id>emailPlaceholder_t</id>
                <iceId>visible</iceId>
                <title>Email Placeholder</title>
                <description/>
