@@ -267,7 +267,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>sendButtonTitle</id>
+               <id>sendButtonTitle_t</id>
                <iceId>visible</iceId>
                <title>Send Button Title</title>
                <description/>

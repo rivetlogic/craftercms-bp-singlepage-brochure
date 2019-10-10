@@ -23,7 +23,7 @@
             </div>
             <div class="col-md-12">
               <fieldset>
-                <button type="submit" id="form-submit" class="btn">${contentModel.sendButtonTitle}</button>
+                <button type="submit" id="form-submit" class="btn">${contentModel.sendButtonTitle_t}</button>
                 <input type="submit" value="Send message" style="display:none" />
               </fieldset>
             </div>
