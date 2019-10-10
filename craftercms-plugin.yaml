@@ -1,0 +1,56 @@
+# This file describes a plugin for use in Crafter CMS
+
+# The version of the format for this file
+descriptorVersion: 2
+
+# Describe the plugin
+plugin:
+  type: blueprint
+  id: com.rivetlogic.craftercms.blueprint.brochure
+  name: "Brochure"
+  tags:
+    - blueprint
+    - singlepage
+    - brochure
+  version:
+    major: 1
+    minor: 0
+    patch: 0
+  description: |
+    Single Page Brochure
+  website:
+    name: "Brochure"
+    url: https://github.com/rivetlogic/craftercms-bp-singlepage-brochure.git
+  media:
+    screenshots:
+      - title: Home Section
+        description: Screenshot of the home section
+        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-singlepage-brochure/master/static-assets/img/screenshots/bp_singlepage-brochure_home.png"
+      - title: About Us Section
+        description: Screenshot of the about us section
+        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-singlepage-brochure/master/static-assets/img/screenshots/bp_singlepage-brochure_about.png"
+      - title: Gallery Section
+        description: Screenshot of the gallery section
+        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-singlepage-brochure/master/static-assets/img/screenshots/bp_singlepage-brochure_gallery.png"
+      - title: Contact Us Section
+        description: Screenshot of the contact us section
+        url: "https://raw.githubusercontent.com/rivetlogic/craftercms-bp-singlepage-brochure/master/static-assets/img/screenshots/bp_singlepage-brochure_contact.png"
+  developer:
+    company:
+      name: Rivet Logic
+      email: info@rivetlogic.com
+      url: https://rivetlogic.com
+  build:
+    id: c3d2a5444e6a24b5e0481d6ba87901d0b02716c8
+    date: 2019-01-23T00:00:00Z
+  license:
+    name: GNU
+    url: https://opensource.org/licenses/GPL-3.0
+  crafterCmsVersions:
+    - major: 3
+      minor: 1
+      patch: 4
+  crafterCmsEditions:
+    - community
+    - enterprise
+  searchEngine: Elasticsearch

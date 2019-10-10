@@ -7,21 +7,21 @@
 	<file-name>gallery.xml</file-name>
 	<folder-name/>
 	<internal-name>gallery</internal-name>
-	<backgroundImage>/static-assets/img/gallery-bg.png</backgroundImage>
-	<galleryImages>	<item>	<galleryImage>/static-assets/img/item-01.jpg</galleryImage>
-	<imageName>Cars in the city</imageName>
-	</item>	<item>	<galleryImage>/static-assets/img/item-02.jpg</galleryImage>
-	<imageName>Nice river</imageName>
-	</item>	<item>	<galleryImage>/static-assets/img/item-03.jpg</galleryImage>
-	<imageName>Buildings</imageName>
-	</item>	<item>	<galleryImage>/static-assets/img/item-04.jpg</galleryImage>
-	<imageName>Sunset</imageName>
-	</item>	<item>	<galleryImage>/static-assets/img/item-05.jpg</galleryImage>
-	<imageName>Castle</imageName>
-	</item></galleryImages>
-	<createdDate>12/19/2017 19:30:53</createdDate>
-	<createdDate_dt>12/19/2017 19:30:53</createdDate_dt>
-	<lastModifiedDate>12/21/2017 17:25:34</lastModifiedDate>
-	<lastModifiedDate_dt>12/21/2017 17:25:34</lastModifiedDate_dt>
-	<title>My Gallery</title>
+	<backgroundImage_s>/static-assets/img/gallery-bg.png</backgroundImage_s>
+	<galleryImages_o>	<item>	<galleryImage_s>/static-assets/img/item-01.jpg</galleryImage_s>
+	<imageName_t>Cars in the city</imageName_t>
+	</item>	<item>	<galleryImage_s>/static-assets/img/item-02.jpg</galleryImage_s>
+	<imageName_t>Nice river</imageName_t>
+	</item>	<item>	<galleryImage_s>/static-assets/img/item-03.jpg</galleryImage_s>
+	<imageName_t>Buildings</imageName_t>
+	</item>	<item>	<galleryImage_s>/static-assets/img/item-04.jpg</galleryImage_s>
+	<imageName_t>Sunset</imageName_t>
+	</item>	<item>	<galleryImage_s>/static-assets/img/item-05.jpg</galleryImage_s>
+	<imageName_t>Castle</imageName_t>
+	</item></galleryImages_o>
+	<createdDate>2017-12-19T19:30:53.000Z</createdDate>
+	<createdDate_dt>2017-12-19T19:30:53.000Z</createdDate_dt>
+	<lastModifiedDate>2017-12-21T17:25:34.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-12-21T17:25:34.000Z</lastModifiedDate_dt>
+	<title_t>My Gallery</title_t>
 </component>

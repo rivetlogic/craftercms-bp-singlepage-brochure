@@ -38,11 +38,11 @@
                    <a onClick='localRedirect("#t4");'><li class="icon icon-menu fa-phone" id="cuatro"></li></a>
                  </ul>
                  <div class="bg-overlay"></div>
-                 <#list contentModel.childContent.item as module>
+                 <#list contentModel.childContent_o.item as module>
 					<@renderComponent component=module />
 				</#list>  
                   
-              <#if contentModel.showCopyright == "true">
+              <#if contentModel.showCopyright_b>
                   <p class="credit">Copyright &copy; 2017 Company Name - Designed by <a href="http://www.tooplate.com" target="_parent">Tooplate</a></p>
               </#if>
               </div>
