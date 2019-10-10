@@ -411,7 +411,7 @@
                <fields>
                   <field>
                      <type>dropdown</type>
-                     <id>socialOpts</id>
+                     <id>socialOpts_s</id>
                      <iceId>visible</iceId>
                      <title>socialOpts</title>
                      <description/>
