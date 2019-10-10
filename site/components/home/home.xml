@@ -12,7 +12,7 @@
 	<homeMainText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius neque non imperdiet auctor. Duis sit amet velit eu lorem sollicitudin sodales.</homeMainText>
 	<buttonTitle_t>discover more</buttonTitle_t>
 	<buttonUrl_s>/#t2</buttonUrl_s>
-	<backgroundImage>/static-assets/img/home-bg.png</backgroundImage>
+	<backgroundImage_s>/static-assets/img/home-bg.png</backgroundImage_s>
 	<createdDate>2017-12-19T19:26:4.000Z</createdDate>
 	<createdDate_dt>2017-12-19T19:26:4.000Z</createdDate_dt>
 	<lastModifiedDate>2018-02-16T19:42:17.093Z</lastModifiedDate>

@@ -1,6 +1,6 @@
 <#import "/templates/system/common/cstudio-support.ftl" as studio />
 
-<div class="page" id="p4" style="background-image: url(${contentModel.backgroundImage})">
+<div class="page" id="p4" style="background-image: url(${contentModel.backgroundImage_s})">
   <li class="icon fa fa-phone" <@studio.iceAttr iceGroup="visible" path=contentModel.storeUrl /> ><span class="title">${contentModel.pageTitle}</span>
     <div class="container">
       <div class="row">

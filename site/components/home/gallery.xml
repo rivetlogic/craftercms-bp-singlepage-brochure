@@ -7,7 +7,7 @@
 	<file-name>gallery.xml</file-name>
 	<folder-name/>
 	<internal-name>gallery</internal-name>
-	<backgroundImage>/static-assets/img/gallery-bg.png</backgroundImage>
+	<backgroundImage_s>/static-assets/img/gallery-bg.png</backgroundImage_s>
 	<galleryImages>	<item>	<galleryImage>/static-assets/img/item-01.jpg</galleryImage>
 	<imageName>Cars in the city</imageName>
 	</item>	<item>	<galleryImage>/static-assets/img/item-02.jpg</galleryImage>
