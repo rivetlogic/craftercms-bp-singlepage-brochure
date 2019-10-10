@@ -8,15 +8,15 @@
 	<folder-name/>
 	<internal-name>gallery</internal-name>
 	<backgroundImage_s>/static-assets/img/gallery-bg.png</backgroundImage_s>
-	<galleryImages_o>	<item>	<galleryImage>/static-assets/img/item-01.jpg</galleryImage>
+	<galleryImages_o>	<item>	<galleryImage_s>/static-assets/img/item-01.jpg</galleryImage_s>
 	<imageName>Cars in the city</imageName>
-	</item>	<item>	<galleryImage>/static-assets/img/item-02.jpg</galleryImage>
+	</item>	<item>	<galleryImage_s>/static-assets/img/item-02.jpg</galleryImage_s>
 	<imageName>Nice river</imageName>
-	</item>	<item>	<galleryImage>/static-assets/img/item-03.jpg</galleryImage>
+	</item>	<item>	<galleryImage_s>/static-assets/img/item-03.jpg</galleryImage_s>
 	<imageName>Buildings</imageName>
-	</item>	<item>	<galleryImage>/static-assets/img/item-04.jpg</galleryImage>
+	</item>	<item>	<galleryImage_s>/static-assets/img/item-04.jpg</galleryImage_s>
 	<imageName>Sunset</imageName>
-	</item>	<item>	<galleryImage>/static-assets/img/item-05.jpg</galleryImage>
+	</item>	<item>	<galleryImage_s>/static-assets/img/item-05.jpg</galleryImage_s>
 	<imageName>Castle</imageName>
 	</item></galleryImages_o>
 	<createdDate>2017-12-19T19:30:53.000Z</createdDate>
