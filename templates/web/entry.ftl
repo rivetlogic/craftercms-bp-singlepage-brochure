@@ -42,7 +42,7 @@
 					<@renderComponent component=module />
 				</#list>  
                   
-              <#if contentModel.showCopyright == "true">
+              <#if contentModel.showCopyright_b>
                   <p class="credit">Copyright &copy; 2017 Company Name - Designed by <a href="http://www.tooplate.com" target="_parent">Tooplate</a></p>
               </#if>
               </div>

@@ -136,7 +136,7 @@
             </field>
             <field>
                <type>checkbox</type>
-               <id>showCopyright</id>
+               <id>showCopyright_b</id>
                <iceId/>
                <title>Show Copyright</title>
                <description/>

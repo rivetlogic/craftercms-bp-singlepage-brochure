@@ -30,5 +30,5 @@
 	<include>/site/components/home/contact.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></childContent_o>
-	<showCopyright>true</showCopyright>
+	<showCopyright_b>true</showCopyright_b>
 </page>
