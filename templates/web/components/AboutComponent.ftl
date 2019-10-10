@@ -6,7 +6,7 @@
         <div class="col-md-6">
           <div class="left-text">
             <h4>${contentModel.title_t}</h4>
-            <p>${contentModel.mainText}</p>
+            <p>${contentModel.mainText_t}</p>
             <div class="primary-button">
               <a href=${contentModel.buttonUrl}>${contentModel.buttonTitle}</a>
             </div>
