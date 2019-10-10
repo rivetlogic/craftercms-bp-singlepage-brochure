@@ -6,8 +6,8 @@
 	<objectId>6610c083-2a6c-b6e1-dd65-acbb7a713dd8</objectId>
 	<file-name>crafter-level-descriptor.level.xml</file-name>
 	<folder-name/>
-	<contactEmails_o>	<item>	<email>emmanuel_1693@hotmail.es</email>
-	</item>	<item>	<email>emmanuel.hidalgo@rivetlogic.com</email>
+	<contactEmails_o>	<item>	<email_s>emailaddress@mail.com</email_s>
+	</item>	<item>	<email_s>anotheraddress@mail.com</email_s>
 	</item></contactEmails_o>
 	<createdDate>2017-12-19T19:47:35.000Z</createdDate>
 	<createdDate_dt>2017-12-19T19:47:35.000Z</createdDate_dt>
