@@ -390,7 +390,7 @@
             </field>
             <field>
                <type>repeat</type>
-               <id>socialMedia</id>
+               <id>socialMedia_o</id>
                <iceId>visible</iceId>
                <title>socialMedia</title>
                <description/>

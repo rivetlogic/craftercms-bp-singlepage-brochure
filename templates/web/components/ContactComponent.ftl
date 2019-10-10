@@ -33,7 +33,7 @@
           <div class="right-info">
             <p>${contentModel.generalInformation_html}</p>
             <ol class="social-icons">
-              <#list contentModel.socialMedia.item as media>
+              <#list contentModel.socialMedia_o.item as media>
                 <#if media.enabled == "true">
                   <i><a href=${media.url}><i class="fa ${media.socialOpts}"></i></a></i>
                 </#if>
