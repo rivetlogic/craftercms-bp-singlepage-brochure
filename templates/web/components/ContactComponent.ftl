@@ -35,7 +35,7 @@
             <ol class="social-icons">
               <#list contentModel.socialMedia_o.item as media>
                 <#if media.enabled == "true">
-                  <i><a href=${media.url}><i class="fa ${media.socialOpts_s}"></i></a></i>
+                  <i><a href=${media.url_s}><i class="fa ${media.socialOpts_s}"></i></a></i>
                 </#if>
               </#list>
             </ol>
