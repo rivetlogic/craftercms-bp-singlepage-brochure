@@ -11,7 +11,7 @@
 	<subTitle_t>welcome to</subTitle_t>
 	<homeMainText>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed varius neque non imperdiet auctor. Duis sit amet velit eu lorem sollicitudin sodales.</homeMainText>
 	<buttonTitle_t>discover more</buttonTitle_t>
-	<buttonUrl>/#t2</buttonUrl>
+	<buttonUrl_s>/#t2</buttonUrl_s>
 	<backgroundImage>/static-assets/img/home-bg.png</backgroundImage>
 	<createdDate>2017-12-19T19:26:4.000Z</createdDate>
 	<createdDate_dt>2017-12-19T19:26:4.000Z</createdDate_dt>

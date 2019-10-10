@@ -267,7 +267,7 @@
             </field>
             <field>
                <type>input</type>
-               <id>buttonUrl</id>
+               <id>buttonUrl_s</id>
                <iceId>visible</iceId>
                <title>Button Url</title>
                <description/>

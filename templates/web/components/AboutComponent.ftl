@@ -8,7 +8,7 @@
             <h4>${contentModel.title_t}</h4>
             <p>${contentModel.mainText_t}</p>
             <div class="primary-button">
-              <a href=${contentModel.buttonUrl}>${contentModel.buttonTitle_t}</a>
+              <a href=${contentModel.buttonUrl_s}>${contentModel.buttonTitle_t}</a>
             </div>
           </div>
         </div>
