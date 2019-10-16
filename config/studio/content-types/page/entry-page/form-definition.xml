@@ -162,7 +162,7 @@
    </sections>
    <datasources>
       <datasource>
-         <type>child-content</type>
+         <type>shared-content</type>
          <id>childContentSource</id>
          <title>Child Content Source</title>
          <interface>item</interface>
