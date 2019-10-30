@@ -316,7 +316,7 @@
          <defaultOpen>false</defaultOpen>
          <fields>
             <field>
-               <type>rte</type>
+               <type>rte-tinymce5</type>
                <id>generalInformation_html</id>
                <iceId>visible</iceId>
                <title>General Information</title>
