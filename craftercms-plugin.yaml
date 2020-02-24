@@ -15,7 +15,7 @@ plugin:
   version:
     major: 1
     minor: 0
-    patch: 6
+    patch: 7
   description: |
     Single Page Brochure
   website:
@@ -53,6 +53,9 @@ plugin:
     - major: 3
       minor: 1
       patch: 5
+    - major: 3
+      minor: 1
+      patch: 6
   crafterCmsEditions:
     - community
     - enterprise
