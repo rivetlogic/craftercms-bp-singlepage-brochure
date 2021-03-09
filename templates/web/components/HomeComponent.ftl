@@ -1,21 +1,25 @@
-<#import "/templates/system/common/cstudio-support.ftl" as studio />
+<#import "/templates/system/common/ice.ftl" as studio />
 
-<div class="page" id="p1" style="background-image: url(${contentModel.backgroundImage_s})">
-   <li class="icon fa fa-home" <@studio.iceAttr iceGroup="visible" path=contentModel.storeUrl label="${contentModel.pageTitle_t}" />>
-   	<span class="title">${contentModel.subTitle_t}</span>
-   	<h4>${contentModel.pageTitle_t}</h4>
-    <p>${contentModel.homeMainText_t}</p>
-   	<div class="primary-button">
-   		<a href=${contentModel.buttonUrl_s}>${contentModel.buttonTitle_t}</a>
-   	</div>
-   </li>   
- </div>
- 
- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
- <script>
- var section = $(".bg-overlay")
- var imageUrl = '${contentModel.backgroundImage_s}'
- section.css('background-image', 'url(' + imageUrl + ')');
- </script>
+<@studio.componentRootTag id="p1" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
+  <li class="icon fa fa-home">
+      <@studio.span $field="subTitle_t" class="title">${contentModel.subTitle_t}</@studio.span>
+      <@studio.h4 $field="pageTitle_t">${contentModel.pageTitle_t}</@studio.h4>
+      <@studio.p $field="homeMainText_t">${contentModel.homeMainText_t}</@studio.p>
+    <div class="primary-button">
+      <a href=${contentModel.buttonUrl_s}>
+          <@studio.span $field="buttonTitle_t">
+              ${contentModel.buttonTitle_t}
+          </@studio.span>
+      </a>
+    </div>
+  </li>
+</@studio.componentRootTag>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>
+  var section = $('.bg-overlay');
+  var imageUrl = '${contentModel.backgroundImage_s}';
+  section.css('background-image', 'url(' + imageUrl + ')');
+</script>
  
 
