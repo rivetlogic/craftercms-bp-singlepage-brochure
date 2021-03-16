@@ -12,18 +12,14 @@
  
 
 function localRedirect(direction) {
- var myPromise = new Promise(function(resolve, reject) {
  	window.location.href = direction;
-     	setTimeout(function(){
-              if(direction === '#t1') {
-                  $("#p1").css('display', 'block');
-              } else {
-                  $("#p1").css('display', 'none');
-              }
-              resolve();
-          }, 500);
-      })
-      .then(function(){studioICERepaint()})
+  setTimeout(function(){
+    if(direction === '#t1') {
+        $("#p1").css('display', 'block');
+    } else {
+        $("#p1").css('display', 'none');
+    }
+  }, 500);
 }
 
 
