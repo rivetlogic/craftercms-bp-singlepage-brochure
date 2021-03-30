@@ -58,7 +58,7 @@
 
             <#if contentModel.showCopyright_b>
               <p class="credit">
-                Copyright &copy; 2017 Company Name - Designed by
+                Copyright &copy; 2021 Company Name - Designed by
                 <a href="http://www.tooplate.com" target="_parent">Tooplate</a>
               </p>
             </#if>
