@@ -12,18 +12,14 @@
  
 
 function localRedirect(direction) {
- var myPromise = new Promise(function(resolve, reject) {
  	window.location.href = direction;
-     	setTimeout(function(){
-              if(direction === '#t1') {
-                  $("#p1").css('display', 'block');
-              } else {
-                  $("#p1").css('display', 'none');
-              }
-              resolve();
-          }, 500);
-      })
-      .then(function(){studioICERepaint()})
+  setTimeout(function(){
+    if(direction === '#t1') {
+        $("#p1").css('display', 'block');
+    } else {
+        $("#p1").css('display', 'none');
+    }
+  }, 500);
 }
 
 
@@ -134,8 +130,11 @@ function localRedirect(direction) {
   Lightbox.prototype.enable = function() {
     var self = this;
     $('body').on('click', 'a[rel^=lightbox], area[rel^=lightbox], a[data-lightbox], area[data-lightbox]', function(event) {
-      self.start($(event.currentTarget));
-      return false;
+      const iceOn = $('html').hasClass('craftercms-ice-on');
+      if (!iceOn) {
+        self.start($(event.currentTarget));
+        return false;
+      }
     });
   };
 

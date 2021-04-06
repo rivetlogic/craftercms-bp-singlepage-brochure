@@ -1,7 +1,8 @@
-<#import "/templates/system/common/cstudio-support.ftl" as studio />
+<#import "/templates/system/common/ice.ftl" as studio />
 
-<div class="page" id="p4" style="background-image: url(${contentModel.backgroundImage_s})">
-  <li class="icon fa fa-phone" <@studio.iceAttr iceGroup="visible" path=contentModel.storeUrl /> ><span class="title">${contentModel.pageTitle_t}</span>
+<@studio.componentRootTag id="p4" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
+  <li class="icon fa fa-phone">
+      <@studio.span $field="pageTitle_t" class="title">${contentModel.pageTitle_t}</@studio.span>
     <div class="container">
       <div class="row">
         <div class="col-md-6">
@@ -31,17 +32,17 @@
         </div>
         <div class="col-md-6">
           <div class="right-info">
-            <p>${contentModel.generalInformation_html}</p>
+              <@studio.tag field="generalInformation_html">${contentModel.generalInformation_html}</@studio.tag>
             <ol class="social-icons">
-              <#list contentModel.socialMedia_o.item as media>
-                <#if media.enabled_b>
-                  <i><a href=${media.url_s}><i class="fa ${media.socialOpts_s}"></i></a></i>
-                </#if>
-              </#list>
+                <#list contentModel.socialMedia_o.item as media>
+                    <#if media.enabled_b>
+                      <i><a href=${media.url_s}><i class="fa ${media.socialOpts_s}"></i></a></i>
+                    </#if>
+                </#list>
             </ol>
           </div>
         </div>
       </div>
     </div>
   </li>
-</div>  
+</@studio.componentRootTag>
