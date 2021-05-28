@@ -1,4 +1,4 @@
-<#import "/templates/system/common/ice.ftl" as studio />
+<#import "/templates/system/common/crafter.ftl" as crafter />
 <!doctype html>
 <!--[if lt IE 7]>
 <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
@@ -23,8 +23,11 @@
   <link rel="stylesheet" href="/static-assets/css/alertify.min.css">
 
   <script src="/static-assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
+  <@crafter.head/>
 </head>
 <body>
+  <@crafter.body_top/>
   <!--[if lt IE 8]>
   <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a
           href="http://browsehappy.com/"
@@ -93,6 +96,6 @@
     ga('create', 'UA-XXXXX-X', 'auto');
     ga('send', 'pageview');
   </script>
-  <@studio.initPageBuilder/>
+  <@crafter.body_bottom/>
 </body>
 </html>
