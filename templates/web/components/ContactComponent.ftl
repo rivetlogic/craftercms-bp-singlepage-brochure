@@ -1,8 +1,8 @@
-<#import "/templates/system/common/ice.ftl" as studio />
+<#import "/templates/system/common/crafter.ftl" as crafter />
 
-<@studio.componentRootTag id="p4" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
+<@crafter.componentRootTag id="p4" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
   <li class="icon fa fa-phone">
-      <@studio.span $field="pageTitle_t" class="title">${contentModel.pageTitle_t}</@studio.span>
+      <@crafter.span $field="pageTitle_t" class="title">${contentModel.pageTitle_t}</@crafter.span>
     <div class="container">
       <div class="row">
         <div class="col-md-6">
@@ -32,7 +32,7 @@
         </div>
         <div class="col-md-6">
           <div class="right-info">
-              <@studio.tag field="generalInformation_html">${contentModel.generalInformation_html}</@studio.tag>
+              <@crafter.tag field="generalInformation_html">${contentModel.generalInformation_html}</@crafter.tag>
             <ol class="social-icons">
                 <#list contentModel.socialMedia_o.item as media>
                     <#if media.enabled_b>
@@ -45,4 +45,4 @@
       </div>
     </div>
   </li>
-</@studio.componentRootTag>
+</@crafter.componentRootTag>
