@@ -32,7 +32,7 @@
         </div>
         <div class="col-md-6">
           <div class="right-info">
-            <@crafter.div field="generalInformation_html">${contentModel.generalInformation_html}</@crafter.div>
+            <@crafter.div $field="generalInformation_html">${contentModel.generalInformation_html}</@crafter.div>
             <ol class="social-icons">
                 <#list contentModel.socialMedia_o.item as media>
                     <#if media.enabled_b>
