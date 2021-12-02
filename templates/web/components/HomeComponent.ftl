@@ -1,6 +1,6 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
 
-<@crafter.componentRootTag id="p1" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
+<@crafter.div id="p1" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
   <li class="icon fa fa-home">
       <@crafter.span $field="subTitle_t" class="title">${contentModel.subTitle_t}</@crafter.span>
       <@crafter.h4 $field="pageTitle_t">${contentModel.pageTitle_t}</@crafter.h4>
@@ -13,7 +13,7 @@
       </a>
     </div>
   </li>
-</@crafter.componentRootTag>
+</@crafter.div>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script>
@@ -21,5 +21,5 @@
   var imageUrl = '${contentModel.backgroundImage_s}';
   section.css('background-image', 'url(' + imageUrl + ')');
 </script>
- 
+
 

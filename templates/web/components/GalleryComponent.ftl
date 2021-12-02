@@ -1,11 +1,11 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
 
-<@crafter.componentRootTag id="p3" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
+<@crafter.div id="p3" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
   <li class="icon fa fa-image">
       <@crafter.span $field="title_t" class="title">${contentModel.title_t}</@crafter.span>
     <div class="container">
 
-        <@crafter.renderRepeatCollection
+        <@crafter.renderRepeatGroup
         $field="galleryImages_o"
         $containerTag="div"
         $containerAttributes={"class": "row"}
@@ -20,13 +20,12 @@
                 <@crafter.span $field="galleryImages_o.imageName_t" $index=index class="title">${item.imageName_t}</@crafter.span>
             </a>
           </div>
-        </@crafter.renderRepeatCollection>
+        </@crafter.renderRepeatGroup>
     </div>
   </li>
-</@crafter.componentRootTag>
+</@crafter.div>
 
 
-                  
-                  
-                  
-                
+
+
+

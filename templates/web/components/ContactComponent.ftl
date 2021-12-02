@@ -1,6 +1,6 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
 
-<@crafter.componentRootTag id="p4" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
+<@crafter.div id="p4" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
   <li class="icon fa fa-phone">
       <@crafter.span $field="pageTitle_t" class="title">${contentModel.pageTitle_t}</@crafter.span>
     <div class="container">
@@ -32,7 +32,7 @@
         </div>
         <div class="col-md-6">
           <div class="right-info">
-            <@crafter.div field="generalInformation_html">${contentModel.generalInformation_html}</@crafter.div>
+            <@crafter.div $field="generalInformation_html">${contentModel.generalInformation_html}</@crafter.div>
             <ol class="social-icons">
                 <#list contentModel.socialMedia_o.item as media>
                     <#if media.enabled_b>
@@ -45,4 +45,4 @@
       </div>
     </div>
   </li>
-</@crafter.componentRootTag>
+</@crafter.div>

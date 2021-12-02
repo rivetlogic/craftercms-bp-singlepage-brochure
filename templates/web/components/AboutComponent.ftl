@@ -1,6 +1,6 @@
 <#import "/templates/system/common/crafter.ftl" as crafter />
 
-<@crafter.componentRootTag id="p2" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
+<@crafter.div id="p2" class="page" style="background-image: url(${contentModel.backgroundImage_s})">
   <li class="icon fa fa-user">
       <@crafter.span $field="subTitle_t" class="title">${contentModel.subTitle_t}</@crafter.span>
     <div class="container">
@@ -24,4 +24,4 @@
       </div>
     </div>
   </li>
-</@crafter.componentRootTag>
+</@crafter.div>
