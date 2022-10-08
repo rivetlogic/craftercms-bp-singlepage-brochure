@@ -161,7 +161,7 @@
 		</section>
 	</sections>
 	<datasources>				<datasource>
-					<type>dropTargets</type>
+					<type>components</type>
 					<id>childContentSource</id>
 					<title>Child Content Source</title>
 					<interface>item</interface>
